@@ -1,2 +1,1 @@
-# binortetangga
-binortetangga
+# [binortetangga](https://binortetangga.pages.dev)
